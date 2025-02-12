@@ -1,7 +1,7 @@
 /**
  * Estudo do array
  * Exemplo de uso em um jogo de cartas
- * @author Professor José de Assis
+ * @author Luis Gustavo Rodrigues Da Silva
  */
 
 function sortear() {
